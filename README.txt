@@ -1,13 +1,21 @@
 # Keyboard Drum Kit
 
-A simple interactive keyboard that plays by using the home row of keys.
 
 ## Installation
+none
 
-What your application does,
-Why you used the technologies you used,
-Some of the challenges you faced and features you hope to implement in the future.
+## Description
 
+A simple interactive keyboard that plays by using the home row of keys.
+Using:
+
+JavaScript
+CSS
+HTML
+
+## Challenges & Future Implementation
+
+maybe do a full keyboard so you can type things like 'normal' and it will work for every key
 
 ## Usage
 
